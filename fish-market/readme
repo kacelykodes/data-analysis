@@ -4,10 +4,10 @@
 A database was created for the fish market on kaggle. Statistical analysis was performed on the data and exported in html format. The data was then visualized in Power BI.
 
 ## Technologies used
-*R
-*SQL
-*Python
-*Microsoft Power BI
+* R
+* SQL
+* Python
+* Microsoft Power BI
 
 ## Viewing the files
 For the database file
@@ -27,5 +27,5 @@ open analysis-of-fish-species.html on any web browser
 
 Alternatively, you can view the pdf version of the visualizations.
 
-##Source
-kaggle.com/datasets/aungpyaeap/fish-market
+## Source
+https://kaggle.com/datasets/aungpyaeap/fish-market
