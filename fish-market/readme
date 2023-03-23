@@ -1,0 +1,31 @@
+# Analysis Of Fish Species
+
+## Introduction
+A database was created for the fish market on kaggle. Statistical analysis was performed on the data and exported in html format. The data was then visualized in Power BI.
+
+## Technologies used
+*R
+*SQL
+*Python
+*Microsoft Power BI
+
+## Viewing the files
+For the database file
+```
+fishmkt-db.sql should run on any installed DBMS such as Microsoft SQL Server
+```
+
+Launch Microsoft Power BI
+```
+Open fishmkt-viz.pbix  -to view a visualization of the fish market data
+```
+
+For statistical analysis of the data:
+```
+open analysis-of-fish-species.html on any web browser
+```
+
+Alternatively, you can view the pdf version of the visualizations.
+
+##Source
+kaggle.com/datasets/aungpyaeap/fish-market
