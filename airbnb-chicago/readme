@@ -1,0 +1,20 @@
+# Visualizing Airbnb rentals in Chicago using Power BI
+
+## Introduction
+This project visualizes the data of airbnb accommodation rentals in Chicago, Illinois.
+
+## Technologies used
+* Microsoft Excel
+* Microsoft Power BI
+
+## Viewing the files
+Launch Microsoft Power BI
+```
+Open chicago-listings-viz.pbix -to view the visualizations
+```
+
+Alternatively, you can view the pdf version of the visualization.
+
+
+## Source
+http://data.insideairbnb.com/united-states/il/chicago/2022-12-20/visualizations/listings.csv
